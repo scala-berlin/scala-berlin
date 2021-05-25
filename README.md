@@ -1,9 +1,7 @@
-# Scala Berlin Brandenburg User Group
-
-[![Join the chat at https://gitter.im/scala-berlin/scala-berlin](https://badges.gitter.im/scala-berlin/scala-berlin.svg)](https://gitter.im/scala-berlin/scala-berlin?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+# Scala Berlin User Group
 
 Meetings are announced 
-on the [meetup page](https://www.meetup.com/Scala-Berlin-Brandenburg/). Attendees need to
+on the [meetup page](https://www.meetup.com/Scala-Berlin/). Attendees need to
 RSVP there.
 
 
