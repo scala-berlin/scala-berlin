@@ -1,7 +1,7 @@
-# Scala Berlin User Group
+# Scala Berlin Brandenburg User Group
 
 Meetings are announced 
-on the [meetup page](https://www.meetup.com/Scala-Berlin/). Attendees need to
+on the [meetup page](https://www.meetup.com/Scala-Berlin-Brandenburg/). Attendees need to
 RSVP there.
 
 
